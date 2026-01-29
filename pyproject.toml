@@ -31,7 +31,6 @@ dependencies = [
     "openpyxl>=3.1.5",
     "pandas",
     "pip",
-    "plotly>=6.5.2",
     "pyarrow>=23.0.0",
     "pytest",
     "python-calamine>=0.6.1",
