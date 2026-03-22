@@ -18,10 +18,13 @@ classifiers = [
 dependencies = [
     "awscli",
     "black",
+    "category-encoders>=2.9.0",
     "duckdb>=1.4.4",
     "flake8",
+    "imblearn>=0.0",
     "ipython",
     "isort",
+    "joblib>=1.5.3",
     "jupyterlab",
     "loguru",
     "matplotlib",
